@@ -71,6 +71,31 @@ hash = "9e120c445c3cb867d4f49ac5a87dad7227364f85cd305b6c5a18f8d4361b0e35"
 metafile = true
 
 [[files]]
+file = "mods/blossomback.pw.toml"
+hash = "1c0b76b67d67637d869862fc299230991ad5c1a923630c871beef37d228544f3"
+metafile = true
+
+[[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "28e87ec8ea6f27c380eb6c5ac8df26ae53ccddbd931f11d8a0ca023e7547033b"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "2d113be9b965a402b5df571f20f19ec78332e340f905e517032e170456db0498"
+metafile = true
+
+[[files]]
+file = "mods/blossomwarps.pw.toml"
+hash = "a3a5ff4deb05922a818fdac266f5af24bb2b70d274a76ee22dd85f5d428afd3d"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "f9572e3411ba862d58df58b465a3aa33357c621f4346da987b3f616f70baf5ee"
 metafile = true
@@ -198,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "7657e97e87c4506f2c07514cce67ffcad59d8c5b01bfbb88473cf031c03960ab"
 metafile = true
 
 [[files]]
