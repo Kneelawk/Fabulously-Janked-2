@@ -6,6 +6,11 @@ hash = "50fcbe10eac3abf0b80b9a4bab9c43cee1890e796328e807c3daa5bf0b2f3e50"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "0e08322161ff858b898c5b3c8888bc7ea1a6b1deea9cc68cb3b104e35db0357a"
 metafile = true
@@ -121,6 +126,16 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "f4302fdd9966919ded8743b20368e270faa003d023326e62110f7ca6e1b979df"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
@@ -158,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "6fdaaa96fba5b4c71daecf7249b90c1aad2b9a27f92355826245177820804af5"
 metafile = true
 
 [[files]]
