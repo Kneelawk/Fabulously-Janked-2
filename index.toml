@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-networking.pw.toml"
+hash = "50fcbe10eac3abf0b80b9a4bab9c43cee1890e796328e807c3daa5bf0b2f3e50"
+metafile = true
+
+[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "0e08322161ff858b898c5b3c8888bc7ea1a6b1deea9cc68cb3b104e35db0357a"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "4f0afa4e70e830f08266c181c2a0deb207780712db6e7f8961ffb62061afada0"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "cdb7cd286ed6706a6481a3a07c5017635d322c175351720503f6d59ee38d4020"
 metafile = true
 
 [[files]]
@@ -61,6 +71,11 @@ hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
 
 [[files]]
+file = "mods/polydex.pw.toml"
+hash = "ac05d49579ae6aa1553ad055581ac1d94e9511d768620089bf8fcb19a9244a41"
+metafile = true
+
+[[files]]
 file = "mods/promenade.pw.toml"
 hash = "822cb71ea6d0986f90f01d1df5eee941334073cddc7b9abbe0398ba76c31fdaf"
 metafile = true
@@ -81,6 +96,11 @@ hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
 metafile = true
 
 [[files]]
+file = "mods/simple-pipes.pw.toml"
+hash = "982469e3629a7fc474a2b8c555b96879e8f5ea8a43d69b61c35b0d5e045ee11d"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "28886fd5471a7a5cc215f155991e1628aaa86224da1cf46e1c2d12cef88118f4"
 metafile = true
@@ -93,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/toomanyorigins.pw.toml"
 hash = "e325de1cac72215e0cb28eab24f16fc55df4762b930d133818f5f653135b9b75"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "1f86bbf321f45c7068c8cbfbbac276ddc31637c29344af3cbd139ef6d0c1bb26"
 metafile = true
 
 [[files]]
