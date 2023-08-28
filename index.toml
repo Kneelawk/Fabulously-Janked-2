@@ -46,6 +46,11 @@ hash = "9d5eb5ff51dfc7123dfea318a027ec5fdf96ac9a29451367ce36cfcb88833679"
 metafile = true
 
 [[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "9e120c445c3cb867d4f49ac5a87dad7227364f85cd305b6c5a18f8d4361b0e35"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
@@ -103,6 +108,16 @@ metafile = true
 [[files]]
 file = "mods/create-utilities.pw.toml"
 hash = "300fb5ae69227b226be00750dc5d5734d26592a54cc104295d30f89bcbb05527"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "8b40bfadfa94f40e3310148cb4828e304cbdd3842304c300366b25a0d0769818"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "b6170f6465df20ddf674b44d11a81d08d57dfa9762e9c692ffe8a554c2de59d5"
 metafile = true
 
 [[files]]
@@ -218,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "0e44cb3de688f757d3d2f485083c90b04459e2d0a6bd604b060fe26b7f164bf0"
 metafile = true
 
 [[files]]
