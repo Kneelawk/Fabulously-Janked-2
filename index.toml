@@ -16,6 +16,11 @@ hash = "b7d82cd112896a6e2c94b5c51bcbd21e7cba294c88f0e2f7b886eb382bad2353"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "7db433b63d957485d7cd5e36b649aae4d97a71ac49c657875b3a05f2c220d1c3"
 metafile = true
@@ -121,11 +126,6 @@ hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
 
 [[files]]
-file = "mods/polydex.pw.toml"
-hash = "ac05d49579ae6aa1553ad055581ac1d94e9511d768620089bf8fcb19a9244a41"
-metafile = true
-
-[[files]]
 file = "mods/promenade.pw.toml"
 hash = "822cb71ea6d0986f90f01d1df5eee941334073cddc7b9abbe0398ba76c31fdaf"
 metafile = true
@@ -173,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "1f86bbf321f45c7068c8cbfbbac276ddc31637c29344af3cbd139ef6d0c1bb26"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "fc11ca1eec1dc3785b51c51b061fed1a68044cd7ffb412cdabdaf76ecc0d9a29"
 metafile = true
 
 [[files]]
