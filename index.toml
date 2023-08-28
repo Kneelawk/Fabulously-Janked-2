@@ -16,6 +16,16 @@ hash = "b7d82cd112896a6e2c94b5c51bcbd21e7cba294c88f0e2f7b886eb382bad2353"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "7db433b63d957485d7cd5e36b649aae4d97a71ac49c657875b3a05f2c220d1c3"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "5081f2c48062e37a7b7a8bee8d0645b1cfb8876ddac6cbd8284beebd4427bb57"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
@@ -26,8 +36,18 @@ hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
+file = "mods/create-origins.pw.toml"
+hash = "19cc41539f86ebe295ad79eed260104665b0427ec329e9faf46e42c0744d6f96"
+metafile = true
+
+[[files]]
 file = "mods/create-snr.pw.toml"
 hash = "b7e380163fd9212bc622e10501b1a502c233012a7b071400b848913e90cfc333"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "300fb5ae69227b226be00750dc5d5734d26592a54cc104295d30f89bcbb05527"
 metafile = true
 
 [[files]]
@@ -36,8 +56,18 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "4f0afa4e70e830f08266c181c2a0deb207780712db6e7f8961ffb62061afada0"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
 metafile = true
 
 [[files]]
