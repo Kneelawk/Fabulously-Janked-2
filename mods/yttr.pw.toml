@@ -1,7 +1,0 @@
-name = "yttr"
-filename = "f67ed0f9-eba0-4da0-8df0-187007ad73a5"
-
-[download]
-url = "https://git.sleeping.town/attachments/f67ed0f9-eba0-4da0-8df0-187007ad73a5"
-hash-format = "sha256"
-hash = "de651030ab7227551151011bc678d3f1a57ef66de9afcb7acc5db1583a5027c9"
