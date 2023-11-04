@@ -1,6 +1,6 @@
 name = "Fabulously Janked 2"
 author = "Kneelawk"
-version = "1.0.1"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "e2576098448ea0a0e62040011621cef05d737b35767a30d3395689916c975507"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.20.1"
+quilt = "0.21.2"
