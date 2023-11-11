@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "a41366ddd0c6ac90fae1bfb117f36fb0a325c19dd823b2006b67ddff4f44a0cf"
+hash = "45e9ed825929aee685220a3625e94d89c5ba7c91557d2b8050b70c6008de1a7d"
 metafile = true
 
 [[files]]
@@ -1074,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "6d61886a3e69c859caca1742792af1d5e47e524706e4d208b785572f746acd4a"
+hash = "6f1753c4ae3446f7e91bc147588e9dd7b50283075b25ef8bb017099042078157"
 metafile = true
 
 [[files]]
